@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mkcod-mcp-server-client-tutorial-using-python-badge.png)](https://mseep.ai/app/mkcod-mcp-server-client-tutorial-using-python)
+
 # Step-by-Step Guide to Build Your Own MCP Server and MCP Client with UI Using Python
 
 This comprehensive guide walks you through the process of creating both a Model Context Protocol (MCP) server and a client with a graphical user interface using Python. MCP is designed to facilitate communication between language models and tool providers, enabling powerful AI-based applications. By the end of this tutorial, you'll have a functional MCP system with both server and client components that can interact seamlessly.
